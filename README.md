@@ -12,7 +12,7 @@ In test case writing for DARAZ - I worked on the Sign and Signout page and found
 ## Software 
 - [Xmind](https://xmind.app): For Mindmap Design
 - [Excel](): For writing test cases and other contents
-- [Google Chrome](https://www.google.com/chrome): For testing and finding bugs. You can use any other web application
+- [Google Chrome](https://www.google.com/chrome): For testing and finding bugs. You can use any other web application.
   
 ## Test Plan -
 ![test plan](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/b1e724f2-db5e-42e7-8c72-392c73cad9c9)
