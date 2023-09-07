@@ -1,1 +1,1 @@
-# Tast-Case-for-DARAZ
+# Test case for DARAZ
