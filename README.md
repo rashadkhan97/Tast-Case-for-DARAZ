@@ -3,13 +3,12 @@
 In test case writing for DARAZ - I worked on the Sign and Signout page and found some problems. 
 
 ## Contents
-- **Inside Excel file-**
-    - Test Plan
-    - Mind Maps
-    - Report
-    - Test Case
-    - Bug Report
-    - Test Metrics
++ Test Plan 
++ Mind Map
++ Report
++ Test Case
++ Bug Report
++ Test Metrics
 ## Software 
 - [Xmind](https://xmind.app): for Mindmap Design
 - [Excel](): for writing test cases and other contents
