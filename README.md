@@ -1,6 +1,6 @@
 # Test case for DARAZ
 
-In test case writing for DARAZ - I worked on the Sign and Signout page and found some problems. 
+In test case writing for DARAZ website - I worked on the Sign and Signout page and found some problems. 
 
 ## Contents
 + Test Plan 
