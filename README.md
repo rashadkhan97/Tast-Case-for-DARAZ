@@ -6,7 +6,7 @@ In test case writing for DARAZ - I worked on the Sign and Signout page and found
 + Test Plan 
 + Mind Map
 + Report
-+ Test Case
++ Test Case writing
 + Bug Report
 + Test Metrics
 ## Software 
@@ -18,7 +18,7 @@ In test case writing for DARAZ - I worked on the Sign and Signout page and found
 ![test plan](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/b1e724f2-db5e-42e7-8c72-392c73cad9c9)
 
 ## Mind Maps - 
-Inside the mindmap, there are modules and sub-modules also we can say it as category and sub-categories. The green color boxes represent categories, the white color boxes as sub-categories, and the yellow color boxes are sub-subcategories.
+Inside the mindmap, there are modules and sub-modules also we can say it as category and sub-categories. The green color boxes represent categories, the white color boxes are sub-categories, and the yellow color boxes are sub-subcategories.
 
 ![Daraz](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/045388d4-00ef-40b3-883c-c074e4d4290e)
 
@@ -31,4 +31,15 @@ Inside the mindmap, there are modules and sub-modules also we can say it as cate
 
 ![test case 3](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/a4b9d0a3-d0de-4978-bfee-4d7692058011)
 
+## Test Case Writing
+To write document test case software used - **Microsoft Excel**. 
+<br>Here, **The total no of test cases written is - 80**  </br> **No of test case pass - 75** <br>**No of test cases failed - 5**</br>
+<br> Check out these photos of test case writing --- </br>
 
+![wr1](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/0b95b583-60a6-4e4a-8799-71595675e24e)
+
+![wr2](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/2c7c8329-e282-4060-8d1f-787b0d727b6f)
+
+![wr3](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/4f1c24ea-4c4b-427f-80a2-98053b81b0f8)
+
+![wr4](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/395fd4f1-eecc-45f1-be2f-359f1f13d1cb)
