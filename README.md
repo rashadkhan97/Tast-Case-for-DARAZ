@@ -49,3 +49,6 @@ The amount of bugs discovered in test case writing is concentrated in this secti
 
 ![bug reporting](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/4713e2ea-2cd2-4b36-bba5-07f6187b8556)
 
+## Test Metrics
+
+![test matrix](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/6a2d6ba0-0acd-4a4c-aa41-c3c96245fa3e)
