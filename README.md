@@ -33,7 +33,7 @@ There are modules and sub-modules inside the mindmap, which can also be referred
 
 ## Test Case Writing -
 To write document test case software used - **Microsoft Excel**. 
-<br>Here, **The total no of test cases written is - 80**  </br> **No of test case pass - 75** <br>**No of test cases failed - 5**</br>. Also, some improvement details are given.
+<br>Here, **The total no of test cases written is - 80**  </br> **No of test case pass - 75** <br>**No of test cases failed - 5**. Also, some improvement details are given.</br>
 <br> Check out these photos of test case writing --- </br>
 
 ![wr1](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/0b95b583-60a6-4e4a-8799-71595675e24e)
