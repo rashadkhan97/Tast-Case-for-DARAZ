@@ -27,7 +27,7 @@ There are modules and sub-modules inside the mindmap, which can also be referred
 
 ![test case 1](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/22ce744b-00b7-49cc-99a3-f44e5e6a724f)
 
-![test case 2](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/77802225-3cf5-4e84-871f-7882575f4180)
+![test case 2](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/221e2a7c-a2c1-4c5d-8ad6-42b1a6018643)
 
 ![test case 3](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/a4b9d0a3-d0de-4978-bfee-4d7692058011)
 
