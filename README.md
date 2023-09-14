@@ -1,6 +1,6 @@
 # Test case for DARAZ
 
-In test case writing for DARAZ website - I worked on the Sign and Signout page and found some problems. 
+In test case writing for the DARAZ Website - I worked on the Sign and Signout page and found some problems. 
 
 ## Contents
 + Test Plan 
@@ -23,7 +23,7 @@ There are modules and sub-modules inside the mindmap, which can also be referred
 ![Daraz](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/045388d4-00ef-40b3-883c-c074e4d4290e)
 
 
-## Report
+## Report -
 
 ![test case 1](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/22ce744b-00b7-49cc-99a3-f44e5e6a724f)
 
@@ -31,7 +31,7 @@ There are modules and sub-modules inside the mindmap, which can also be referred
 
 ![test case 3](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/a4b9d0a3-d0de-4978-bfee-4d7692058011)
 
-## Test Case Writing
+## Test Case Writing -
 To write document test case software used - **Microsoft Excel**. 
 <br>Here, **The total no of test cases written is - 80**  </br> **No of test case pass - 75** <br>**No of test cases failed - 5**</br>
 <br> Check out these photos of test case writing --- </br>
@@ -44,11 +44,11 @@ To write document test case software used - **Microsoft Excel**.
 
 ![wr4](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/395fd4f1-eecc-45f1-be2f-359f1f13d1cb)
 
-## Bug Report
+## Bug Report -
 The amount of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 5 test cases failed. **#SL-5,9,14,21,34** denotes the errors identified and written on those rows in the five bug reporting boxes below.
 
 ![bug reporting](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/4713e2ea-2cd2-4b36-bba5-07f6187b8556)
 
-## Test Metrics
+## Test Metrics -
 
 ![test matrix](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/6a2d6ba0-0acd-4a4c-aa41-c3c96245fa3e)
