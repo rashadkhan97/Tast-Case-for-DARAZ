@@ -43,3 +43,9 @@ To write document test case software used - **Microsoft Excel**.
 ![wr3](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/4f1c24ea-4c4b-427f-80a2-98053b81b0f8)
 
 ![wr4](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/395fd4f1-eecc-45f1-be2f-359f1f13d1cb)
+
+## Bug Report
+The number of bugs found in test case writing is focused on this part. As we already know from the previous(Test Case Writing) part, test cases failed - 5. 
+
+![bug reporting](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/4713e2ea-2cd2-4b36-bba5-07f6187b8556)
+
