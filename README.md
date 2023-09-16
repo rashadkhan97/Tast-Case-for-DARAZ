@@ -15,7 +15,7 @@ In test case writing for the DARAZ website, I worked on the sign-in and Signout 
 + Bug Report
 + Test Metrics
 
-## Test Plan
+### Test Plan
 ![test plan](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/b1e724f2-db5e-42e7-8c72-392c73cad9c9)
 
 ## Mind Maps 
