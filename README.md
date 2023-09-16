@@ -1,6 +1,11 @@
 # Test case for DARAZ
 
-In test case writing for the DARAZ Website - I worked on the Sign and Signout page and found some problems. 
+In test case writing for the DARAZ website, I worked on the sign-in and Signout pages and found some problems. 
+
+## Software 
+- [Xmind](https://xmind.app): For Mindmap Design
+- [Excel](): For writing test cases and other contents
+- [Google Chrome](https://www.google.com/chrome): For testing and finding bugs. You can use any other web application.
 
 ## Contents
 + Test Plan 
@@ -9,11 +14,7 @@ In test case writing for the DARAZ Website - I worked on the Sign and Signout pa
 + Test Case writing
 + Bug Report
 + Test Metrics
-## Software 
-- [Xmind](https://xmind.app): For Mindmap Design
-- [Excel](): For writing test cases and other contents
-- [Google Chrome](https://www.google.com/chrome): For testing and finding bugs. You can use any other web application.
-  
+
 ## Test Plan -
 ![test plan](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/b1e724f2-db5e-42e7-8c72-392c73cad9c9)
 
