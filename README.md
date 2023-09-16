@@ -19,7 +19,7 @@ In test case writing for the DARAZ website, I worked on the sign-in and Signout 
 ![test plan](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/b1e724f2-db5e-42e7-8c72-392c73cad9c9)
 
 ### Mind Map
-There are modules and sub-modules inside the mindmap, which can also be referred to as categories and sub-categories. The green boxes represent categories, the white boxes represent subcategories, and the yellow boxes represent sub-subcategories.
+There are modules and sub-modules inside the mindmap, which can also be referred to as categories and sub-categories. The green boxes represent categories, the white boxes represent subcategories, and the yellow boxes represent nested-subcategories.
 
 ![Daraz](https://github.com/rashadkhan97/Tast-Case-for-DARAZ/assets/76771109/045388d4-00ef-40b3-883c-c074e4d4290e)
 
