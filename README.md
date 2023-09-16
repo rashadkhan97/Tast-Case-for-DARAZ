@@ -9,9 +9,9 @@ In test case writing for the DARAZ website, I worked on the sign-in and Signout 
 
 ## Contents
 - [Test Plan](#test-plan) 
-+ Mind Map
-+ Report
-+ Test Case writing
+- [Mind Map](#mind-map)
+- [Report](#report)
+- [Test Case writing](#test-case-writing)
 + Bug Report
 + Test Metrics
 
