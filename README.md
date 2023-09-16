@@ -8,7 +8,7 @@ In test case writing for the DARAZ website, I worked on the sign-in and Signout 
 - [Google Chrome](https://www.google.com/chrome): For testing and finding bugs. You can use any other web application.
 
 ## Contents
-- [Test Plan](#Test-Plan) 
+- [Test Plan](#test-plan) 
 + Mind Map
 + Report
 + Test Case writing
